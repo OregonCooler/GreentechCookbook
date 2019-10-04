@@ -1,10 +1,10 @@
-# oregon-cooler.oregoncooler
+# {Oregon Cooler](../../readme.md)
 
-The Oregon Cooler is an open-source green water heater, solar power station, HVAC, and smart-home system.. Please join us as a contributor on GitHub at <https://github.com/oregoncooler> and visit us online at <https://oregoncooler.org>.
+## [Hardware Design](../readme.md)
 
-## Mission and Vision
+## Garden Controller
 
-The mission of Oregon-Cooler is to put a green air conditioner into every home in the world and replace concrete in residential areas with negative-carbon technology. Our vision is to reduce over 1% of global warming emissions.
+The Garden Controller currently at the money only turns on and off water for growing plants, but in the near future it will open a solenoid valve using a solar panel and return water condensate for evaporation near plants in order to deliver a small amount of CO2 to the plants in the hopes it will convert some percent of the gas into Oxygen via photosynthesis, but this concept has not been proven to work.
 
 ## License
 
