@@ -24,7 +24,7 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>. */
 using namespace _;
 
 namespace oregoncooler { namespace client { 
-inline const CH1* _1_Bar (CH1* seam_log, CH1* seam_end, const CH1* args) {
+inline const CHA* _1_Bar (CHA* seam_log, CHA* seam_end, const CHA* args) {
 #if SEAM >= THEATER_0
   TEST_BEGIN;
 
