@@ -1,6 +1,4 @@
-# [Oregon-Cooler](../README.md)
-
-## Contributing Guide
+# Contributing Guide
 
 **1.** Ensure the bug was not already reported by by reading the [Issues](https://github.com/abc_org/xyz_project/issues).
 
