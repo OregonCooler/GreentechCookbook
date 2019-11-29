@@ -4,15 +4,22 @@
 
 ### Quickstart Guide
 
-**1.** Clone the repo:
+**1.** Read the [Astartup Cookbook™](https://github.com/a-startup/astartup.cookbook/tree/master/getting_started) for instructions on how to setup your workspace.
+
+**2.** Clone the repos:
 
 ```Bash
-git clone https://github.com/kabuki-starship/markdown.cookbook.git
+git clone https://github.com/oregon-cooler/greentech.cookbook.git
+git clone https://github.com/oregon-cooler/oregoncooler.git
+git clone https://github.com/oregon-cooler/oregoncooler.client.git
+git clone https://github.com/oregon-cooler/oregoncooler.website.git
 ```
 
-**2.** Read the [Astartup™ Cookbook](https://github.com/a-startup/astartup.cookbook/tree/master/getting_started/markdown/readme.md) for instructions on how to use the Markdown templates.
+**3.** Install FeeCAD 0.18 at <https://freecadweb.org>.
 
-**[<< Previous Section:Getting Started](./readme.md) | [Next Section: Configuration and Build System >>](./quickstart_guide.md)**
+**4.** Explore the repo folders, and read the rest of this chapter for more details.
+
+**[<< Previous Section: Getting Started](./readme.md) | [Next Section: Organization >>](./organization.md)**
 
 ## License
 
