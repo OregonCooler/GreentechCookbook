@@ -1,10 +1,18 @@
-# [Greentech Cookbook](../../)
+# [Greentech Cookbook](../)
 
-## [Cold Water Heater](./)
+## [Gas Extractor](./)
 
-### Installation
+### Tools Required
 
-This chapter is going to cover how to safely install the unit, but we don't have enough progress to write this section. Please check back later.
+The tools required to build a Cold Water Heater are:
+
+1. Drill
+1. Recipricating saw.
+1. Screw driver
+
+#### CNC Construction
+
+In order to construct a cold water heater
 
 **[<< Previous Section: Content Table](../) | [Next Section: >>](.md)**
 

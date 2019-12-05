@@ -1,12 +1,12 @@
-# [Greentech Cookbook](../../)
+# [Greentech Cookbook](../)
 
-## [Cold Water Heater](./)
+## Pet Compound
 
-### Installation
+The Pet Compound is an addition to the Oregon-Cooler products that is a heated outdoor pet house that fits between two Salt-log Dehumifiers and adds insulation to your windows.
 
-This chapter is going to cover how to safely install the unit, but we don't have enough progress to write this section. Please check back later.
+Pet Compounds are a good addition to your home because they are attractive, low-cost, they are easy to decorate and put plants on, and pets love them.
 
-**[<< Previous Section: Content Table](../) | [Next Section: >>](.md)**
+**[<< Previous Section: Gas Extractor Summary](../gas_extractor/summary) | [Next Section: Product Design >>](./prouct_design)**
 
 ## License
 

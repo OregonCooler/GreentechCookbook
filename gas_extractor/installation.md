@@ -1,12 +1,12 @@
-# [Markdown Cookbook](../readme.md)
+# [Greentech Cookbook](../../)
 
-## [Getting Started](./readme.md)
+## [Gas Extractor](./)
 
-### Configuration
+### Installation
 
-This is a stub.
+This chapter is going to cover how to safely install the unit, but we don't have enough progress to write this section. Please check back later.
 
-**[<< Previous Section:Configuration](./configuration.md) | [Next Section:Document Structure >>](../document_structure/readme.md)**
+**[<< Previous Section: Content Table](../) | [Next Section: >>](.md)**
 
 ## License
 

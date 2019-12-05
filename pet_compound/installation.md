@@ -1,12 +1,12 @@
 # [Greentech Cookbook](../../)
 
-## [Cold Water Heater](./)
+## [Gas Extractor](./)
 
-### Construction.
+### Installation
 
-#### CNC Construction
+This chapter is going to cover how to safely install the unit, but we don't have enough progress to write this section. Please check back later.
 
-**[<< Previous Section: Content Table](../) | [Next Section: >>](.md)**
+**[<< Previous Section: Gas Extractor Overview](../) | [Next Section: >>](.md)**
 
 ## License
 
