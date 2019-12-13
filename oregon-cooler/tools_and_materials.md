@@ -1,12 +1,29 @@
-# [Greentech Cookbook](../../)
+# [Greentech Cookbook](../)
 
-## [Gas Extractor](./)
+## [Oregon-Cooler](./)
 
-### Installation
+### Tools and Materials
 
-This chapter is going to cover how to safely install the unit, but we don't have enough progress to write this section. Please check back later.
+The tools required to build a Oregon-Cooler are:
 
-**[<< Previous Section: Content Table](../) | [Next Section: >>](.md)**
+1. Drill.
+1. Screw driver.
+
+You materials you will need are:
+
+1. 1 mini-fridge.
+1. 1 water tank for the main part of the fridge.
+1. 2 water tanks for the fridge door.
+1. 1 salt-water tank for freezer.
+1. 1 salt-water tank for the bottom of the fridge.
+1. 1 submersible pump for the salt-water with tubes to to between the freezer and the salt-water tank in the bottom.
+1. Long test tube.
+1. Waterproof sealant.
+1. temperature sensor.
+1. pH sensor.
+1. water flow sensor.
+
+**[<< Previous Section: Chapter Overview](../) | [Next Section: Product Design >>](.md)**
 
 ## License
 
