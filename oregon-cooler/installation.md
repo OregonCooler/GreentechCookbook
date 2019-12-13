@@ -1,12 +1,12 @@
-# [Greentech Cookbook](../)
+# [Greentech Cookbook](../../)
 
-## [Gas Extractor](./)
+## [Oregon-Cooler](./)
 
-### Product Design
+### Installation
 
-This is an open-source project and you are encouraged to build your own DIY verison, but there is a pre-build model for sale in our store at <https://astartup.net/oregoncooler> or <https://oregoncooler.org>.
+This chapter is going to cover how to safely install the unit, but we don't have enough progress to write this section. Please check back later.
 
-**[<< Previous Section: Cold Water Heater](../cold_water_heater/summary) | [Next Section: Installation Design >>](installation_design.md)**
+**[<< Previous Section: Content Table](../) | [Next Section: >>](.md)**
 
 ## License
 

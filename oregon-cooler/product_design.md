@@ -1,20 +1,12 @@
 # [Greentech Cookbook](../)
 
-## [Gas Extractor](./)
+## [Oregon-Cooler](./)
 
-### Tools Required
+### Product Design
 
-The tools required to build a Cold Water Heater are:
+This is an open-source project and you are encouraged to build your own DIY verison, but there is a pre-build model for sale in our store at <https://astartup.net/oregoncooler> or <https://oregoncooler.org>.
 
-1. Drill
-1. Recipricating saw.
-1. Screw driver
-
-#### CNC Construction
-
-In order to construct a cold water heater
-
-**[<< Previous Section: Content Table](../) | [Next Section: >>](.md)**
+**[<< Previous Section: Cold Water Heater](../cold_water_heater/summary) | [Next Section: Installation Design >>](installation_design.md)**
 
 ## License
 
