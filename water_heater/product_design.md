@@ -1,10 +1,12 @@
-# [greentech.cookbook](../../)
+# [Greentech Cookbook](../)
 
-## [Hardware Design](../)
+## [Biodigestor](./)
 
-## Garden Controller
+### Product Design
 
-The Garden Controller currently at the money only turns on and off water for growing plants, but in the near future it will open a solenoid valve using a solar panel and return water condensate for evaporation near plants in order to deliver a small amount of CO2 to the plants in the hopes it will convert some percent of the gas into Oxygen via photosynthesis, but this concept has not been proven to work.
+This is an open-source project and you are encouraged to build your own DIY verison, but there is a pre-build model for sale in our store at <https://astartup.net/oregoncooler> or <https://oregoncooler.org>.
+
+**[<< Previous Section: Gas Extractor Installation](../gas_extractor/installation) | [Next Section: Installation >>](installation.md)**
 
 ## License
 

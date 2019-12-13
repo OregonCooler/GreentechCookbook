@@ -1,10 +1,12 @@
-# [greentech.cookbook](../../)
+# [Greentech Cookbook](../../)
 
-## [Hardware Design](../)
+## [Gas Extractor](./)
 
-## Garden Controller
+### Installation
 
-The Garden Controller currently at the money only turns on and off water for growing plants, but in the near future it will open a solenoid valve using a solar panel and return water condensate for evaporation near plants in order to deliver a small amount of CO2 to the plants in the hopes it will convert some percent of the gas into Oxygen via photosynthesis, but this concept has not been proven to work.
+This chapter is going to cover how to safely install the unit, but we don't have enough progress to write this section. Please check back later.
+
+**[<< Previous Section: Content Table](../) | [Next Section: >>](.md)**
 
 ## License
 
