@@ -6,9 +6,9 @@
 
 The tools required to build a Cold Water Heater are:
 
-1. Drill
+1. Drill.
 1. Recipricating saw.
-1. Screw driver
+1. Screw driver.
 
 #### CNC Construction
 

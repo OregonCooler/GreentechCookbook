@@ -2,7 +2,9 @@
 
 ## Cold Water Heater
 
-A cold-water heater is a water heater that heats water by extracting energy from cold water and stacking the energies on top of each other using a modified refrator.
+A cold-water heater is a water heater that heats water by extracting energy from cold water and stacking the energies on top of each other using a modified refrigerator and a Salt-log Dehumidifier (SLD) you can read about in the next chapter.
+
+The Cold Water Heater uses a Salt-log dehumifier.
 
 **[<< Previous Section: Getting Started](../) | [Next Section: >>](.md)**
 

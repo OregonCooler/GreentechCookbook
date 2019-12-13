@@ -1,4 +1,4 @@
-# [oregon-cooler](github.com/oregon-cooler/oregoncooler).[oregoncooler](../readme.md)
+# [greentech.cookbook](../../)
 
 ## [Hardware](../)
 
@@ -7,10 +7,6 @@
 18% of electric in homes is used to heat water, and most of this energy is used to heat the water from cold to warm[1]. The Oregon-Cooler solution is to replace East-West facing fences with vacuum sealed solar water heaters. This ist he origianl design that was intended to vaporize water to remove salt water, that turned into the Water Fence.
 
 ![Water Fence Prototype 1](passive_water_vapoizer_and_condenser_v1.jpeg)
-
-#### Science
-
-
 
 ## License
 
