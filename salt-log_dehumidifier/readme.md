@@ -1,8 +1,6 @@
 # [Greentech Cookbook](../../readme.md)
 
-## [Cold Water Heater](../)
-
-### Salt-log Dehumidifier
+## [Salt-log Dehumidifier](../)
 
 A Salt-log Dehumidifier (SLD) is Thermal Diode that separates moisture from heat using salt, a log, and two fans in a push-pull configuration. Wood is a good material to construct thermal diodes with because it is a thermal insulator and it has tubes in it that the tree uses to carry moisture from the roots to the leaves. You can create two interleaved tubes in a log by cutting one slot that exposes the tubes in the log at zero degrees, if the log is standing up then the saw would be parallel to the ground, and another below it at 90 degrees, another below that at zero degrees followed by another at 90 degrees, repeating this pattern the length of the log. You can use a variety of sealants to seal up the sides of the tube to make them air tight.
 

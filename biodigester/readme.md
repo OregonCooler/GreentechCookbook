@@ -1,12 +1,12 @@
 # [Greentech Cookbook](../)
 
-## [Biodigestor](./)
+## Biodigester
 
-### Product Design
+A Biodigester is an artificial stomach and anus complete with burps and farts that we can extract hydrocarbon and greenhouse gases from using the Cold Water Gas Extractor from the previous chapter.
 
-This is an open-source project and you are encouraged to build your own DIY verison, but there is a pre-build model for sale in our store at <https://astartup.net/oregoncooler> or <https://oregoncooler.org>.
+Our Biodigester works by rerouting your plumbing into a heated grey water tank and the Biodigester. This is done because we want to extract the heat from the heated grey water and then blow that heat back into the Cold Water Heater chapter.
 
-**[<< Previous Section: Gas Extractor Installation](../gas_extractor/installation) | [Next Section: DIY Construction >>](diy_construction.md)**
+**[<< Previous Section: Gas Extractor Installation](../gas_extractor/installation) | [Next Section: Product Design >>](product_design.md)**
 
 ## License
 

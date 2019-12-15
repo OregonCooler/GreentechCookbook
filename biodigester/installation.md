@@ -1,20 +1,12 @@
-# [Greentech Cookbook](../)
+# [Greentech Cookbook](../../)
 
-## [Biodigestor](./)
+## [Biodigester](./)
 
-### Tools Required
+### Installation
 
-The tools required to build a Cold Water Heater are:
+This chapter is going to cover how to safely install the unit, but we don't have enough progress to write this section. Please check back later.
 
-1. Drill
-1. Recipricating saw.
-1. Screw driver
-
-#### CNC Construction
-
-In order to construct a cold water heater
-
-**[<< Previous Section: Biodigestor Overview](./) | [Next Section: Product Design >>](./product_design)**
+**[<< Previous Section: Content Table](../) | [Next Section: >>](.md)**
 
 ## License
 

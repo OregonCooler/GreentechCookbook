@@ -2,7 +2,7 @@
 
 ## Oregon-Cooler
 
-The Oregon-Cooler is a greenhouse gas extraction and separation machine that separates the gases using a modified biodigestor and refrigerator. There are two main sources of gas coming off of our homes, burning of fuel for heat and cooking, and the gases coming off of our biowaste, mainly poop and food compost. 
+The Oregon-Cooler is a greenhouse gas extraction and separation machine that separates the gases using a modified Biodigester and refrigerator. There are two main sources of gas coming off of our homes, burning of fuel for heat and cooking, and the gases coming off of our biowaste, mainly poop and food compost. 
 
 The physics trick we're going to exploit is to take the fan off of the back of the refrigerator and put the water condensate into the refrigerator to cool the water and boost the gas content, then we're going to extract the gases using some water percolators and a pH sensor on the end of a tube that can go up and down in the tank in order to use the pH sensor to find the water with the highest content of the gas you're searching for, which is going to be near the bottom where it is the coldest. To get the gas back out all we must do is pump the water up to a place where it can warm up to room temperature, and the extra gas content will come back out of the water. The room temperature water can then be drained back into the tank using gravity to be reused until it is dirty and needs to be recycled.
 

@@ -4,7 +4,18 @@
 
 ### Product Design
 
-This is an open-source project and you are encouraged to build your own DIY verison, but there is a pre-build model for sale in our store at <https://astartup.net/products/pet-compound>. You can find the design files for the Pet Compound at <https://github.com/oregon-cooler/oregoncooler/tree/master/modules/pet_comound>.
+This is an open-source project and you are encouraged to build your own DIY version, but there is a pre-build model for sale in our store at <https://oregoncooler.org/cold-water-heater>. You can find the design files at <https://github.com/oregon-cooler/oregoncooler/tree/master/modules/cold_water_heater>.
+
+The Oregon-Cooler Cold Water Heater is constructed from some photography-grade or grow lights on a metal plate, a diffuser plate to put in front of the diffusor plate.
+
+![Cold Water Heater CAD Model Front](oregon-cooler.oregoncooler.cold_water_heater.front.png)
+![Cold Water Heater CAD Model Inside Front](oregon-cooler.oregoncooler.cold_water_heater.inside.front.png)
+
+There are two approximately one inch hose adapters that feed the air and water into and out of a sprinkler that drips water on the back of the lights in such a way that the water surface area gets maximized with the air being blown upwards through the one inch tubes.
+
+![Cold Water Heater CAD Model Inside Rear](oregon-cooler.oregoncooler.cold_water_heater.inside.rear.png)
+
+![Cold Water Heater CAD Model Rear](oregon-cooler.oregoncooler.cold_water_heater.rear.png)
 
 **[<< Previous Section: Cold Water Heater](../cold_water_heater/summary) | [Next Section: Installation Design >>](installation_design.md)**
 

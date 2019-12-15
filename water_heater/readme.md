@@ -1,10 +1,8 @@
 # [Greentech Cookbook](../readme.md)
 
-## Biodigestor
+## Water Heater
 
-A Biodigestor is an artificial stomach and anus complete with birps and farts that we can extract hydrocarbon and greenhouse gases from using the Cold Water Gas Extractor from the previous chapter.
-
-Our biodigestor works by rerouting your plumbing into a heated grey water tank and the biodigestor. This is done because we want to extract the heat from the heated grey water and then blow that heat back into the Hot Water Heater module in the next channel.
+In order to use a Cold water heater you require a water heater to heat the water on demand.
 
 **[<< Previous Section: Gas Extractor Installation](../gas_extractor/installation) | [Next Section: Product Design >>](product_design.md)**
 

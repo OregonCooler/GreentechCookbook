@@ -1,12 +1,12 @@
-# [Greentech Cookbook](../../)
+# [Greentech Cookbook](../)
 
-## [Biodigestor](./)
+## [Biodigester](./)
 
-### Installation
+### Product Design
 
-This chapter is going to cover how to safely install the unit, but we don't have enough progress to write this section. Please check back later.
+This is an open-source project and you are encouraged to build your own DIY verison, but there is a pre-build model for sale in our store at <https://astartup.net/oregoncooler> or <https://oregoncooler.org>.
 
-**[<< Previous Section: Content Table](../) | [Next Section: >>](.md)**
+**[<< Previous Section: Gas Extractor Installation](../gas_extractor/installation) | [Next Section: DIY Construction >>](diy_construction.md)**
 
 ## License
 

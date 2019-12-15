@@ -1,6 +1,6 @@
 # [Greentech Cookbook](../)
 
-## [Biodigestor](./)
+## [Biodigester](./)
 
 ### Product Design
 

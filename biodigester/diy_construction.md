@@ -1,10 +1,10 @@
 # [Greentech Cookbook](../)
 
-## [Biodigestor](./)
+## [Biodigester](./)
 
 ### DIY Construction
 
-The Oregon-Cooler Biodigestor Product Design is only a reference design and you are encouraged to build your own, though warning it may end up more expensive due to ecconomy of scale.
+The Oregon-Cooler Biodigester Product Design is only a reference design and you are encouraged to build your own, though warning it may end up more expensive due to ecconomy of scale.
 
 **[<< Previous Section: Gas Extractor Installation](../gas_extractor/installation) | [Next Section: Installation >>](installation.md)**
 
