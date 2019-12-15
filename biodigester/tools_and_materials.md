@@ -1,12 +1,20 @@
-# [Greentech Cookbook](../readme.md)
+# [Greentech Cookbook](../)
 
-## Biodigestor
+## [Biodigester](./)
 
-A Biodigestor is an artificial stomach and anus complete with birps and farts that we can extract hydrocarbon and greenhouse gases from using the Cold Water Gas Extractor from the previous chapter.
+### Tools Required
 
-Our biodigestor works by rerouting your plumbing into a heated grey water tank and the biodigestor. This is done because we want to extract the heat from the heated grey water and then blow that heat back into the Cold Water Heater chapter.
+The tools required to build a Cold Water Heater are:
 
-**[<< Previous Section: Gas Extractor Installation](../gas_extractor/installation) | [Next Section: Product Design >>](product_design.md)**
+1. Drill
+1. Recipricating saw.
+1. Screw driver
+
+#### CNC Construction
+
+In order to construct a cold water heater
+
+**[<< Previous Section: Biodigester Overview](./) | [Next Section: Product Design >>](./product_design)**
 
 ## License
 

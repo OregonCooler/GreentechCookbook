@@ -2,7 +2,7 @@
 
 ## Biopotty
 
-The Biopotty is a modification toilets that liquefies human waste for use in biodigestors.
+The Biopotty is a modification toilets that liquefies human waste for use in Biodigesters.
 
 **[<< Previous Section: Gas Extractor Installation](../gas_extractor/installation) | [Next Section: Product Design >>](product_design.md)**
 

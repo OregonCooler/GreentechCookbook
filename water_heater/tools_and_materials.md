@@ -1,18 +1,17 @@
 # [Greentech Cookbook](../)
 
-## [Gas Extractor](./)
+## [Water Heater](./)
 
-### Tools Required
+### Tools and Materials
 
-The tools required to build a Cold Water Heater are:
+The tools required to build an Oregon-Cooler Water Heater are:
 
 1. Drill
-1. Recipricating saw.
 1. Screw driver
 
-#### CNC Construction
+### Materials
 
-In order to construct a cold water heater
+1. 
 
 **[<< Previous Section: Content Table](../) | [Next Section: >>](.md)**
 

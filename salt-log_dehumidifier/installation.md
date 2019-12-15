@@ -6,7 +6,7 @@
 
 This chapter is going to cover how to safely install the unit, but we don't have enough progress to write this section. Please check back later.
 
-**[<< Previous Section: Content Table](../) | [Next Section: >>](.md)**
+**[<< Previous Section: Product Design](../) | [Next Section: Cold Water Heater >>](../cold_water_heater)**
 
 ## License
 

@@ -1,12 +1,12 @@
 # [Greentech Cookbook](../)
 
-## [Biodigestor](./)
+## [Biodigester](./)
 
 ### Aqua Fence
 
-The Oregon-Cooler Biodigestor Product Design is only a reference design and you are encouraged to build your own, though warning it may end up more expensive due to ecconomy of scale.
+The Oregon-Cooler Biodigester Product Design is only a reference design and you are encouraged to build your own, though warning it may end up more expensive due to ecconomy of scale.
 
-**[<< Previous Section: Biodigestor Installation](../biodigestor/installation) | [Next Section: Tools and Materials >>](./tools_and_materials)**
+**[<< Previous Section: Biodigester Installation](../Biodigester/installation) | [Next Section: Tools and Materials >>](./tools_and_materials)**
 
 ## License
 
