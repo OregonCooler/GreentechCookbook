@@ -4,33 +4,17 @@
 
 ### Organization
 
-Oregon-Cooler is a KabukiPress book and application; you can learn about KabukiPress in the Getting Started chapter of the KabukiPress Cookbook located at <https://github.com/kabuki-starship/kabuki.press.cookbook>. The Oregon-Cooler consists of hardware designs with associated firmware, a server, a client app, and this cookbook.
+This book is organized into one chapter for each chapter of the book, with each chapter sharing the same progression. Each product starts out with a quick overview of the product that includes what it is, what it does, why it's useful, and what are the basic physics principles it operates on.
 
-#### oregoncooler repo
+The first section of each chapter is the Product Design section that overviews how the Oregon-Cooler model that you can purchase at <https://oregoncooler.org>, but you are encouraged to build your own. You can find the design files for that product in the link in that section. As of the writing of this, all of the design files are very small and can fit in one repo, this is not guaranteed to be the the same in the future if the project design files start to balloon and they require their own repository.
 
-The oregoncooler repo is different than the oregon-cooler repo, which is the repo that contains the shared workpace for the organization. The oregoncooler repos have a client app and website, but these are decoupled from the hardware-specific coupling of the hardware to the server requirements and specificaitons.
+The second section of each chapter is the DIY Guide that details how you can build that particular product using commonly available parts. You can find those parts for sale using the link in that section or at <https://oregoncooler.org/diy>.
 
-##### Hardware
+The third section of each chapter is the Installation guide. This section instructs you how to install that product into your home or building using the most common scenarios.
 
-The hardware designs can be found in the hardware folder of the Oregon-Cooler repository at <https://github.com/oregon-cooler/oregoncooler/tree/master/hardware>. Each hardware project is sorted into a directory that you can brows on GitHub using a web browser.
+All of the design files for the products in this book can be found at <https://github.com/oregon-cooler/oregon-cooler>. Each module has it's own folder, and if that particular module starts to get very big, the folder will become it's own Git repository.
 
-###### Firmware
-
-Oregon-Cooler firmware is programmed in Modern Embedded-C++ with the Kabuki Tek Toolkit located at <https://github.com/kabuki-starship/kabuki.toolkit.tek>, which is built on top of [ARM mbed®](mbed.com). Each Oregon-Cooler hardware product has it's own firmware, that you can find in the folder for that hardware device.
-
-###### Server
-
-The Oregon-Cooler server is an extendable web server for a smart-home or smart-city that can be used to create a variety of different Greentech devices and platforms. The server is responsible for managing IoT device clouds, control smart-homes and cities, and provide an infostructure for addicional services.
-
-##### oregoncooler.client Application 
-
-The Oregon-Cooler client application interfaces with the Oregon-Cooler Server to allows you to monitor, analise, and control your smart-home and smart-city. This app is designed to allow for an unlimited number of hardware devices, each with their own unique interfaces and Machine-to-Machine interface (M2MI) requirements. Because of this, the client app is decouple from the oregoncooler repo that contains specific hardware and one implmementaiton of a server you can control with the app, but you're not limited to only controlling our server.
-
-##### oregoncooler.website
-
-The Oregon-Cooler website is supposed to be a KabukiPress app right now, but IMUL compiler is not working so we're using Jekyll, which you can find at <https://jekyllrb.com>.
-
-**[<< Previous Section: Quickstart Guide](./quickstart_gude.md) | [Next Section: Summary >>](./sumary)**
+**[<< Previous Section: Quickstart Guide](./quickstart_guide.md) | [Next Section: Salt-log Dehumidifier Overview >>](../salt-log)**
 
 ## License
 

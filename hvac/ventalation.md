@@ -1,25 +1,22 @@
-# [Greentech Cookbook](../readme.md)
+# [Markdown Cookbook](../)
 
-## [Getting Started](./readme.md)
+## [Getting Started](./)
 
-### Quickstart Guide
+### Ventilation
 
-This quickstart guide is for uses who wish to contribute to the Greentech Cookbook. Feel free to skip this section, but it is very useful to know how our workspace is setup because it will help you with other projects.
+Every house is going to be ventilated differently. Some houses have problem spots such as moisture build up, others are modern with an existing premium solution.
 
-**1.** Read the [Astartup Cookbook™](https://github.com/a-startup/astartup.cookbook/tree/master/getting_started) for instructions on how to setup your workspace.
+#### Duct Fans
 
-**2.** Clone the repos:
+The most important design consideration is the air-flow surface area and air flow in Cubic Feet per minute (CFM), which is dependent on the size of the the fan. Below is a chart of the most common fan sizes and their surface areas.
 
-```Bash
-git clone https://github.com/oregon-cooler/greentech.cookbook.git
-git clone https://github.com/oregon-cooler/oregon-cooler.git
-```
+|      4" / 10 cm       |        6" / 15 cm        |       8" / 20 cm       |
+|:-------------------- :|:------------------------:|:----------------------:|
+| 12.57in^2 / 78.54cm^2 |  28.27in^2 / 178.72cm^2  | 50.27in^2 / 314.16cm^2 |
 
-**3.** Install FeeCAD 0.18 at <https://freecadweb.org>.
+When you reduce a duct fan, you can and should reduce a 20 cm to a 15 cm, a 15 cm to a 10 cm, and a 7.5 cm hose to a 5 cm hose. The larger the diameter of the hose, the lower the thermal coefficient and energy loss. The most common fan size is a 6 inch duct fan reduced to a 4 inch duct, which is also the size of a clothing drier intake.
 
-**4.** Explore the repo folders, and read the rest of this chapter for more details.
-
-**[<< Previous Section: Getting Started](./readme.md) | [Next Section: Organization >>](./organization.md)**
+**[<< Previous Section: HVAC.Heating](./heating) | [Next Section: HVAC.AirConditioning >>](./air_conditioning)**
 
 ## License
 
