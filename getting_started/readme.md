@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-This began as a biomimicry project for my friend's Master's thesis where we were trying to extract water from seawater for drinking purposes in third-world countries, but that didn't work so I turned it into a new type of water heating HVAC and energy harvester called an Oregon-Cooler™ Negative-carbon Aqua HVAC Energy Station™. It works on simple physical principles that I'm trying to get feedback here before I write the cookbook chapters.
+This began as a biomimicry project for my friend's Master's thesis where we were trying to extract water from seawater for drinking purposes in third-world countries, but that didn't work because we couldn't get enough water, we didn't know what to do with the left-over brine, and and the extracted water was corrosive. The project sat on the shelf for years until I got board of debugging code and I turned the machine into a new type of water Heating, Ventilation, and Air Conditioning (HVAC)  and energy harvester called an Oregon-Cooler™ Negative-carbon Aqua HVAC Energy Station™. It works on simple physical principles.
 
 First, you must know the sources of greenhouse gas emissions. Second, you must know what percent of electricity is used in your home for different purposes. First, you must know some science about HVAC & gases:
 
@@ -20,7 +20,7 @@ These facts are all you need to know to slash your energy bill; so here is my pl
 
 First, we start with the heated greywater. we've been dumping 13% of our electricity RIGHT DOWN THE DRAIN!!! The Oregon-Cooler is to create a hot, cold, moist and dry circuit in your home to make the water flow through the gas to moisture cycle by hijacking your refrigerator and adding a dehumidifier to keep your dry goods and home dry. The warm air goes through the dry storage where it is then fed into the cold circuit of the refrigerant/freezer and vented out of the house. You reroute your shower water with a pump with a filter on it into a metal tank called the Wet Room where it sits until it cools, and we use this warm air in combination with your drier output to feed what these LED photograph lighting panels and TVs.
 
-LEDs work WAY better when you water cool them, so the system starts out by bringing your tap water up through some metal pipes in an insulated Biodigester such that when the compost has heat, water runs through the pipes preheating your water. The compost is then mixed and the top skimmed off when a sensor detects its ready. This water is still under pressure from the city and goes up to the telephone poles to cool the streetlights, and we install solar water preheaters on the tops of telephone poles. Solar panels are also just like LEDs only reverse, so you put a solar panel on top of the water preheater, and it transfers the rest of the wasted heat into the water and increases the efficiency of the panel. This water then flows from the pole into people's houses into the LED water heater panels described below.
+LEDs work WAY better when you water cool them, so the system starts out by bringing your tap water up through some metal pipes in an insulated Biodigester such that when the compost has heat, water runs through the pipes preheating your water. The compost is then mixed and the top skimmed off when a sensor detects its ready. This water is still under pressure from the city and goes up to the telephone poles to cool the streetlights, and we install solar water preheaters on the tops of telephone poles. Solar panels are also just like LEDs only reverse, so you put a solar panel on top of the water preheaters, and it transfers the rest of the wasted heat into the water and increases the efficiency of the panel. This water then flows from the pole into people's houses into the LED water heater panels described below.
 
 Methane gas from the decomposing food is extracted using pipes that go from pile to pile, venting the bad smell, and condensing the methane to be used to generate heat that is then fed back into the system to heat water and aid in the breaking down of the biomaterial.
 
@@ -42,7 +42,7 @@ The Oregon-Cooler was invented to be able to use Wood to solve global warming be
 
 This same steam power station technique can be applied in town by replacing sidewalks with chimneys that go from compost pile to compost pile and extract methane.  All we have to do is bury some trees side by side to make a sidewalk out of the chimneys, and we can create small steam power stations in our neighborhoods where we can extract some CO2 with our refrigerator runoff, and a machine calculates the exact amount of smoke to blow through it.
 
-**[<< Previous Section: Content Table](../) | [Next Section: >>](.md)**
+**[<< Previous Section: Content Table](../) | [Next Section: Quickstart Guide >>](./quickstart_guide)**
 
 ## License
 

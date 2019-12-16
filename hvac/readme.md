@@ -1,25 +1,10 @@
-# [Greentech Cookbook](../readme.md)
+# [Greentech Cookbook](../)
 
-## [Getting Started](./readme.md)
+## HVAC
 
-### Quickstart Guide
+This chapter is a crash coarse in Heating, Ventilation, and Air Conditioning (HVAC) and how to weatherize buildings.
 
-This quickstart guide is for uses who wish to contribute to the Greentech Cookbook. Feel free to skip this section, but it is very useful to know how our workspace is setup because it will help you with other projects.
-
-**1.** Read the [Astartup Cookbook™](https://github.com/a-startup/astartup.cookbook/tree/master/getting_started) for instructions on how to setup your workspace.
-
-**2.** Clone the repos:
-
-```Bash
-git clone https://github.com/oregon-cooler/greentech.cookbook.git
-git clone https://github.com/oregon-cooler/oregon-cooler.git
-```
-
-**3.** Install FeeCAD 0.18 at <https://freecadweb.org>.
-
-**4.** Explore the repo folders, and read the rest of this chapter for more details.
-
-**[<< Previous Section: Getting Started](./readme.md) | [Next Section: Organization >>](./organization.md)**
+**[<< Previous Section: GettingStarted.ToolsAndMaterials](../getting_started/tools_and_materials) | [Next Section: HVAC.Heating >>](./heating)**
 
 ## License
 
