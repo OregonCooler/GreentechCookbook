@@ -1,19 +1,10 @@
-# [Greentech Cookbook](../)
+# [Greentech Cookbook](../readme.md)
 
-## [Getting Started](./)
+## [Biopotty™](./)
 
-### Tools and Materials
+The Biopotty is a modification toilets that liquefies human waste for use in Biodigesters.
 
-The tools required to build a Oregon-Cooler are:
-
-1. Drill.
-1. Screw driver.
-
-You materials you will need are:
-
-1. 1 mini-fridge.
-
-**[<< Previous Section: Chapter Overview](../) | [Next Section: Product Design >>](.md)**
+**[<< Previous Section: Gas Extractor Installation](../gas_extractor/installation) | [Next Section: Product Design >>](product_design.md)**
 
 ## License
 

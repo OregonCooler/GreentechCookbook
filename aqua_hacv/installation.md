@@ -1,19 +1,12 @@
-# [Greentech Cookbook](../)
+# [Greentech Cookbook](../../)
 
-## [Getting Started](./)
+## [Aqua HAC Vent™](./)
 
-### Tools and Materials
+### Installation
 
-The tools required to build a Oregon-Cooler are:
+This chapter is going to cover how to safely install the unit, but we don't have enough progress to write this section. Please check back later.
 
-1. Drill.
-1. Screw driver.
-
-You materials you will need are:
-
-1. 1 mini-fridge.
-
-**[<< Previous Section: Chapter Overview](../) | [Next Section: Product Design >>](.md)**
+**[<< Previous Section: Content Table](../) | [Next Section: >>](.md)**
 
 ## License
 

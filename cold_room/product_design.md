@@ -1,19 +1,12 @@
 # [Greentech Cookbook](../)
 
-## [Getting Started](./)
+## [Biopotty™](./)
 
-### Tools and Materials
+### Product Design
 
-The tools required to build a Oregon-Cooler are:
+This is an open-source project and you are encouraged to build your own DIY verison, but there is a pre-build model for sale in our store at <https://astartup.net/oregoncooler> or <https://oregoncooler.org>.
 
-1. Drill.
-1. Screw driver.
-
-You materials you will need are:
-
-1. 1 mini-fridge.
-
-**[<< Previous Section: Chapter Overview](../) | [Next Section: Product Design >>](.md)**
+**[<< Previous Section: Gas Extractor Installation](../gas_extractor/installation) | [Next Section: DIY Construction >>](diy_construction.md)**
 
 ## License
 
