@@ -1,19 +1,10 @@
-# [Greentech Cookbook](../)
+# [Greentech Cookbook](../readme.md)
 
-## [Getting Started](./)
+## [Aqua HAC Vent™](./)
 
-### Tools and Materials
+The Aqua HAC Vent is a wall-mount vent with water tank that heats and cools a room with hot or cold water and a fan. The Aqua HAC Vent is designed to work with the Salt-log Dehumidifier.
 
-The tools required to build a Oregon-Cooler are:
-
-1. Drill.
-1. Screw driver.
-
-You materials you will need are:
-
-1. 1 mini-fridge.
-
-**[<< Previous Section: Chapter Overview](../) | [Next Section: Product Design >>](.md)**
+**[<< Previous Section: Cold Water Heater Installation](../cold_water_heater/installation) | [Next Section: Product Design >>](./product_design)**
 
 ## License
 

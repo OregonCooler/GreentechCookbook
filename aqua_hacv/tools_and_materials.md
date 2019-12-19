@@ -1,19 +1,19 @@
 # [Greentech Cookbook](../)
 
-## [Getting Started](./)
+## [Aqua HAC Vent™](./)
 
-### Tools and Materials
+### Tools Required
 
-The tools required to build a Oregon-Cooler are:
+The tools required to build a Aqua HAC Vent are:
 
-1. Drill.
-1. Screw driver.
+1. Drill
+1. Screw driver
 
-You materials you will need are:
+#### CNC Construction
 
-1. 1 mini-fridge.
+In order to construct a cold water heater
 
-**[<< Previous Section: Chapter Overview](../) | [Next Section: Product Design >>](.md)**
+**[<< Previous Section: Biodigester Overview](./) | [Next Section: Product Design >>](./product_design)**
 
 ## License
 
