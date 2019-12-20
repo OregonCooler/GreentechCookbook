@@ -1,6 +1,6 @@
 # [Greentech Cookbook](../../)
 
-## [Aqua HAC Vent™](./)
+## [Aqua HACV](./)
 
 ### Installation
 

@@ -4,7 +4,7 @@
 
 ### Product Design
 
-This is an open-source project and you are encouraged to build your own DIY verison, but there is a pre-build model for sale in our store at <https://astartup.net/oregoncooler> or <https://oregoncooler.org>.
+This is an open-source project and you are encouraged to build your own DIY version, but there is a pre-build model for sale in our store at <https://astartup.net/oregoncooler> or <https://oregoncooler.org>.
 
 **[<< Previous Section: Gas Extractor Installation](../gas_extractor/installation) | [Next Section: DIY Construction >>](diy_construction.md)**
 

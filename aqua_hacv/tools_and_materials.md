@@ -1,6 +1,6 @@
 # [Greentech Cookbook](../)
 
-## [Aqua HAC Vent™](./)
+## [Aqua HACV](./)
 
 ### Tools Required
 
@@ -13,7 +13,7 @@ The tools required to build a Aqua HAC Vent are:
 
 In order to construct a cold water heater
 
-**[<< Previous Section: Biodigester Overview](./) | [Next Section: Product Design >>](./product_design)**
+**[<< Previous Section: Overview](./) | [Next Section: Product Design >>](./product_design)**
 
 ## License
 

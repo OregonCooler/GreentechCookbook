@@ -1,10 +1,14 @@
 # [Greentech Cookbook](../)
 
-## [Aqua HAC Vent™](./)
+## [Aqua HACV](./)
 
 ### Product Design
 
-This is an open-source project and you are encouraged to build your own DIY verison, but there is a pre-build model for sale in our store at <https://astartup.net/oregoncooler> or <https://oregoncooler.org>.
+This is an open-source project and you are encouraged to build your own DIY version, but there is a pre-build model for sale in our store at <https://astartup.net/oregoncooler> or <https://oregoncooler.org>. You can find the design files for the Aqua HACV at <https://github.com/oregon-cooler/oregon-cooler>.
+
+The Oregon-Cooler Aqua HACV is just a mockup made of stainless steel plates. The system uses one solenoid valve for all of the units to drain at once. This allows for the water to be gravity feed into the top of the unit, the water can either cool or heat the room, and the water can then be drained right back to either the cooler or the Water Heaters in the 12-hour grow rooms.
+
+![Drawing of the front of the Aqua HAC Vent](oregon-cooler.aqua_hacv.front.png)
 
 **[<< Previous Section: Gas Extractor Installation](../gas_extractor/installation) | [Next Section: DIY Construction >>](diy_construction.md)**
 
