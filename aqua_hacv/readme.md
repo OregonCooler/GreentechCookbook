@@ -2,7 +2,9 @@
 
 ## [Aqua HAC Vent™](./)
 
-The Aqua HAC Vent is a wall-mount vent with water tank that heats and cools a room with hot or cold water and a fan. The Aqua HAC Vent is designed to work with the Salt-log Dehumidifier.
+The Aqua HAC Vent is a wall-mount vent with water tank that heats and cools a room with hot or cold water and a fan. The Aqua HAC Vent is designed to work with the Salt-log Dehumidifier such that you blow the Dry air on the metal water tank.
+
+![Drawing of a basic Cold water heater, Salt-log dehumidifier, and Aqua HAC Vent](oregon-cooler.aqua_hacv.drawing.png)
 
 **[<< Previous Section: Cold Water Heater Installation](../cold_water_heater/installation) | [Next Section: Product Design >>](./product_design)**
 

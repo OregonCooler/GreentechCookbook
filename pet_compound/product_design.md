@@ -4,7 +4,7 @@
 
 ### Product Design
 
-This is an open-source project and you are encouraged to build your own DIY verison, but there is a pre-build model for sale in our store at <https://astartup.net/products/pet-compound>. You can find the design files for the Pet Compound at <https://github.com/oregon-cooler/oregoncooler/tree/master/modules/pet_comound>.
+This is an open-source project and you are encouraged to build your own DIY version, but there is a pre-build model for sale in our store at <https://astartup.net/products/pet-compound>. You can find the design files for the Pet Compound at <https://github.com/oregon-cooler/oregoncooler/tree/master/modules/pet_comound>.
 
 **[<< Previous Section: Cold Water Heater](../cold_water_heater/summary) | [Next Section: Installation >>](./installation)**
 
