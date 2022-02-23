@@ -1,6 +1,8 @@
 # [Greentech Cookbook](github.com/oregon-cooler/greentech_cookbook)
 
-By [Cale McCollough](https://calemccollough.github.io)
+***How to build DIY technology to reverse climate change.***
+
+**By [Cale McCollough](https://cookingwithcale.org)**
 
 ## Content Table
 
@@ -8,9 +10,9 @@ By [Cale McCollough](https://calemccollough.github.io)
    1. [Quickstart Guide](./getting_started/quickstart_guide)
    1. [Organization](./getting_started/organization)
    1. [Tools and Materials](./salt-log_dehumidifier/tools_and_materials)
-1. [Global Warming](./global_warming)
-   1. [Greenhouse Gas Sources](./global_warming/greenhouse_gas_sources)
-   1. [Household Energy Consumption](./global_warming/household_energy_consumption)
+1. [Climate Change](./climate_change)
+   1. [Greenhouse Gas Sources](./climate_change/greenhouse_gas_sources)
+   1. [Household Energy Consumption](./climate_change/household_energy_consumption)
 1. [HVAC](./hvac)
    1. [Heating](./hvac/heating)
    1. [Ventilation](./hvac/ventilation)
@@ -45,10 +47,10 @@ By [Cale McCollough](https://calemccollough.github.io)
 
 ## Mission and Vision
 
-The mission of the Greentech Cookbook is to combat global warming with open-source green-tech. Our vision is to control the temperature of the planet by harnessing wasted energy and providing the world with clean water, food, heating, and cooling year-round.
+The mission of the Greentech Cookbook is to combat global warming with open-source green-tech. Our vision is to control the temperature of the planet by harnessing wasted solar, geothermal, and waste energy and providing the world with clean water, food, heating, and cooling year-round.
 
 ## License
 
-Copyright © 2019 [Kabuki Starship™](https://kabukistarship.com).
+Copyright © 2019-20 [Kabuki Starship™](https://kabukistarship.com).
 
 This source code form is an open-source innovation, the Writings and Discoveries, that was written by and contains intellectual property that consists of documents, files, source code, technology design files, art, and other content contained this file, folder and the GitHub repository located at <https://github.com/oregon-cooler/oregoncooler>. The Writings and Discoveries is published under the Kabuki Strong Source-available License, the License, which is a non-commercial open-source source-available license and is for educational and demonstration purposes only. You may use, reproduce, publicly display, and modify the Writings and Discoveries so long as you submit and donate fixes and derived intellectual property, the Donated Ideas, to the Repository as an Issue ticket to become part of the Writings and Discoveries. You may not sell the Writings and Discoveries or otherwise profit from derivative works created from the Writings and Discoveries without the expressed written permission of the above copyright holder. Unless required by applicable law or agreed to in writing, the Writings and Discoveries distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
